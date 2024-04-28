@@ -23,9 +23,9 @@ Apresente os resultados do seu projeto
 exemplos/capacópia.jpg
 
 
-![capa](exemplos/capacópia.jpg)
-![capa](exemplos/pag1.jpg)
-![capa](exemplos/pag2.jpg)
+![capa](exemplos/capacópia.jpg/)
+![pagina_01](exemplos/pag1.jpg/)
+![pagina_02](exemplos/pag2.jpg/)
 
 
 ## 💭 Reflexão (Opcional)
