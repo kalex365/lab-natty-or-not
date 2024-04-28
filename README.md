@@ -20,10 +20,12 @@ Vontade de um dia ver a continuação da estória do AKIRA
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
+exemplos/capacópia.jpg
 
-![capa]("D:\CURSOS\lab-natty-or-not\exemplos\capacópia.jpg")
-![capa]("D:\CURSOS\lab-natty-or-not\exemplos\pag1.jpg")
-![capa]("D:\CURSOS\lab-natty-or-not\exemplos\pag2.jpg")
+
+![capa](exemplos/capacópia.jpg)
+![capa](exemplos/pag1.jpg)
+![capa](exemplos/pag2.jpg)
 
 
 ## 💭 Reflexão (Opcional)
